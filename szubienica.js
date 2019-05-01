@@ -2,9 +2,9 @@ var nr_hasla = Math.floor(Math.random()*5);
 var hasla = new Array(5)
 hasla[0] = "Bez pracy nie ma kołaczy";
 hasla[1] = "Franek to najlepszy przyjaciel";
-hasla[2] = "Franek to gej";
+hasla[2] = "Odciąganie";
 hasla[3] = "Można jak najbardziej";
-hasla[4] = "Autor jest idiotą";
+hasla[4] = "Autor to newbie";
 
 var haslo = hasla[nr_hasla]
 /**funkcja JS do wielkich liter */
