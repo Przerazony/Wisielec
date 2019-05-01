@@ -4,7 +4,7 @@ hasla[0] = "Bez pracy nie ma kołaczy";
 hasla[1] = "Franek to najlepszy przyjaciel";
 hasla[2] = "Odciąganie";
 hasla[3] = "Można jak najbardziej";
-hasla[4] = "Autor to newbie";
+hasla[4] = "Autor to roocky";
 
 var haslo = hasla[nr_hasla]
 /**funkcja JS do wielkich liter */
